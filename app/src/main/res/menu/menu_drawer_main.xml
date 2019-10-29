@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"></item>
+    <item android:title="Home2"></item>
+    <item android:title="Home3"></item>
+    <item android:title="Otras Opciones">
+        <menu>
+            <item android:title="Cerrar Sesion"></item>
+        </menu>
+    </item>
+</menu>
